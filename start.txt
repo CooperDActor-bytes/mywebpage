@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<p><!DOCTYPE html></p>
-<p><html></p>
-<p><body></p>
-<p><title>Add Title Here</title></p>
-<p><h1>My  Heading</h1></p>
-<p><p>My  paragraph.</p></p>
-
-<p></body></p>
-<p></html></p>
+<title>Add Title Here</title>
+<h1>My Heading</h1>
+<p>My paragraph.</p>
 
 </body>
 </html>
+
+
