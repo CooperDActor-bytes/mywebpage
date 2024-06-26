@@ -4,8 +4,17 @@
 <title>Add Title Here</title>
 <h1>My Heading</h1>
 <p>My paragraph.</p>
-
 </body>
 </html>
+
+
+That is the start of the next generation (basic html lol)
+
+some more ideas with this is 
+css
+
+see https://saltyandcrew.au.eu.org/blog for more details on html
+
+
 
 
